@@ -49,8 +49,9 @@ This project was built as part of a resume screening system to support automated
 Special thanks to the open-source ML and NLP communities 💙
 
 📫 Contact
-Connect with me on https://www.linkedin.com/in/riddhi-jathar-b2434a288/
+Connect with me on www.linkedin.com/in/sayali-kale-42001a2b1
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Web_App-lightgrey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
+
 
