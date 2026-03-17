@@ -48,7 +48,7 @@ Recommended Job Role: Data Scientist​
 This project was built as part of a resume screening system to support automated recruitment.
 Special thanks to the open-source ML and NLP communities 💙
 
-📫 Contact
+Contact
 Connect with me on www.linkedin.com/in/sayali-kale-42001a2b1
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
