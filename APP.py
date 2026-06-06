@@ -263,6 +263,7 @@ def pred():
                                phone=phone,name=name,email=email,extracted_skills=extracted_skills,extracted_education=extracted_education)
     else:
         return render_template("resume.html", message="No resume file uploaded.")
-
+    
 if __name__ == '__main__':
-    app.run(debug=True)
+    import os
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), debug=False)
